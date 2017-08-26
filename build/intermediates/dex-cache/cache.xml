@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/adal/AndroidStudioProjects/GlucoseBT/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d0b11ffedec1f0776065c5c50a9340cbeb17ec2c">
+        <dex dex="/home/adal/AndroidStudioProjects/GlucoseBT/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f455b02d39631d1e380e06901ae51462150af774/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adal/.android/build-cache/3fac968c1d1edbbceee79a8e72fd64d1d710ee98/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/adal/AndroidStudioProjects/GlucoseBT/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61c496d50ed008f7681dd838947b4c6ef7eafa2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adal/.android/build-cache/ce3990f41159779511abc7d7591b015afa18a44b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/adal/AndroidStudioProjects/GlucoseBT/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ae1e561810fd7bc7a17f099d11594aa4c9fca85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adal/.android/build-cache/aad425335987e894257e93d1d7db0feba0b556c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/adal/AndroidStudioProjects/GlucoseBT/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_919a7be6ca82913363ac396535c8029fb5c590d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adal/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/adal/AndroidStudioProjects/GlucoseBT/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_9b8aa0c045da344e35497847d0e87b933cc6a8e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adal/.android/build-cache/618f5dc698a9c607528918852d58d964bcdf2a35/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/adal/AndroidStudioProjects/GlucoseBT/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ac3632dd9d32c3b2fb4c11b7550116233490de8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adal/.android/build-cache/006ca0fc52662d5de037660d2b0e9b366ac687f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/adal/AndroidStudioProjects/GlucoseBT/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e08719d755420e14cd94bd0df79fe36a4f9d8f82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adal/.android/build-cache/16a95ed7735c67b9292680676bd9a66594495e1e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/adal/AndroidStudioProjects/GlucoseBT/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77dcc1e639238e94f08959b9261ad4afbc093554/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adal/AndroidStudioProjects/GlucoseBT/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/home/adal/AndroidStudioProjects/GlucoseBT/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d4b9012bb560d995eed3e990c486fb13a07bb774/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adal/.android/build-cache/f4733851c55e538253497f4177385ca0c47385c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/adal/AndroidStudioProjects/GlucoseBT/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5ea1f471d7b5b6fa56500d7f24b3943da8b835b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adal/.android/build-cache/f556cc921849bf4d64a770bb318e58956ce30f57/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/home/adal/AndroidStudioProjects/GlucoseBT/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b88bc5ec8a121aa5db320f7bdf1d688cc15ffe1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adal/.android/build-cache/4fcea58c503b8864e4e971d572c8ff0430e2980f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/adal/AndroidStudioProjects/GlucoseBT/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5785bd06d5c36a3cb8f399afd34723c30c16acff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adal/.android/build-cache/27838c2652c808b6b8cf98cb5a5c12fe0f47041b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/adal/AndroidStudioProjects/GlucoseBT/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f95431dae8b6d813efebaeafd56e82609a1ff56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adal/.android/build-cache/3672fbdf307347413b6bc5f1e296ef2b5f25257a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/adal/AndroidStudioProjects/GlucoseBT/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6cd10d614f043d0a5d8ac67d9fb6237836b758c9/classes.dex" />
+    </item>
+
+</items>
